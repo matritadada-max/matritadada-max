@@ -46,12 +46,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Ossama-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ossama-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=matritadada-max&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matritadada-max&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ossama-dev&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=matritadada-max&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -59,7 +59,7 @@
 ### 📈 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ossama-dev/Ossama-dev/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/matritadada-max/matritadada-max/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
